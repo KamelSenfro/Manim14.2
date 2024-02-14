@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/6-Matematik ß/14,2/media/videos/Cycloid/480p15/partial_movie_files/Cycloid/1185818338_3638527355_3339302538.mp4'
+file 'file:F:/6-Matematik ß/14,2/media/videos/Cycloid/480p15/partial_movie_files/Cycloid/624642324_2660066900_726735815.mp4'
+file 'file:F:/6-Matematik ß/14,2/media/videos/Cycloid/480p15/partial_movie_files/Cycloid/624642324_1265828681_1706814433.mp4'
+file 'file:F:/6-Matematik ß/14,2/media/videos/Cycloid/480p15/partial_movie_files/Cycloid/624642324_1704852926_3905934858.mp4'
