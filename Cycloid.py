@@ -6,7 +6,7 @@ class Cycloid(Scene):
 
     def construct(self):
 
-        CycloidTxt = Text("Cycloid", font="TeX Gyre Termes").scale(1.5).to_edge(UP)
+        CycloidTxt = Text("Cycloid", font="TeX Gyre Termes").scale(1).to_edge(edge=UP, buff=0.5)
 
         r = 3 / PI
         corr = 1 / config.frame_rate  # missed frame correction
@@ -44,3 +44,4 @@ class Cycloid(Scene):
             
         RC.clear_updaters()
         self.wait()
+#manim -pql Cycloid.py Cycloid
